@@ -1,3 +1,6 @@
+# Server（联邦学习服务端）
+# Perform model aggregation on the local model uploaded by the selected client.
+
 import models, torch
 
 

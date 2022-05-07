@@ -1,0 +1,811 @@
+
+Files already downloaded and verified
+begin time: 1651493186.417852
+begin global model training 
+
+module = 10  K=9
+
+Global Epoch 0
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+server acc 41.63
+Epoch 0, acc: 41.630000, loss: 2.716864
+
+Global Epoch 1
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+server acc 49.87
+Epoch 1, acc: 49.870000, loss: 1.527319
+
+Global Epoch 2
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+server acc 54.98
+Epoch 2, acc: 54.980000, loss: 1.330480
+
+Global Epoch 3
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+server acc 57.86
+Epoch 3, acc: 57.860000, loss: 1.220609
+
+Global Epoch 4
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+server acc 60.24
+Epoch 4, acc: 60.240000, loss: 1.152840
+
+Global Epoch 5
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+server acc 61.4
+Epoch 5, acc: 61.400000, loss: 1.176509
+
+Global Epoch 6
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+server acc 64.09
+Epoch 6, acc: 64.090000, loss: 1.049788
+
+Global Epoch 7
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+server acc 65.47
+Epoch 7, acc: 65.470000, loss: 1.008523
+
+Global Epoch 8
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+server acc 66.83
+Epoch 8, acc: 66.830000, loss: 0.958551
+
+Global Epoch 9
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+server acc 67.64
+Epoch 9, acc: 67.640000, loss: 0.933751
+
+Global Epoch 10
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+server acc 67.60000000000001
+Epoch 10, acc: 67.600000, loss: 0.947016
+
+Global Epoch 11
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+server acc 68.27
+Epoch 11, acc: 68.270000, loss: 0.921003
+
+Global Epoch 12
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+server acc 68.89
+Epoch 12, acc: 68.890000, loss: 0.901230
+
+Global Epoch 13
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+server acc 70.19
+Epoch 13, acc: 70.190000, loss: 0.859091
+
+Global Epoch 14
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+server acc 70.53
+Epoch 14, acc: 70.530000, loss: 0.847903
+
+Global Epoch 15
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+server acc 70.71
+Epoch 15, acc: 70.710000, loss: 0.853199
+
+Global Epoch 16
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+server acc 71.87
+Epoch 16, acc: 71.870000, loss: 0.808825
+
+Global Epoch 17
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+server acc 72.03
+Epoch 17, acc: 72.030000, loss: 0.800455
+
+Global Epoch 18
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 6 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+server acc 72.44
+Epoch 18, acc: 72.440000, loss: 0.786136
+
+Global Epoch 19
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 1 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 7 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 3 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 5 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 2 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 4 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 8 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 0 local train done
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Client 9 local train done
+server acc 72.72999999999999
+Epoch 19, acc: 72.730000, loss: 0.783200
+
+end time: 1651523948.564727
+Execution time: 30762.1469 seconds
+
+Process finished with exit code 0

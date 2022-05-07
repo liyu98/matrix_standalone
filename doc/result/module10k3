@@ -1,0 +1,268 @@
+/Users/jacky/opt/anaconda3/envs/learn/bin/python /Users/jacky/Documents/iit/CS584/homework/project1/main.py
+Files already downloaded and verified
+begin global model training 
+
+K = 3 
+
+Global Epoch 0
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 0.8099999999999999
+Epoch 0, acc: 0.810000, loss: 7.298680
+
+Global Epoch 1
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 3.8600000000000003
+Epoch 1, acc: 3.860000, loss: 5.899463
+
+Global Epoch 2
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 12.91
+Epoch 2, acc: 12.910000, loss: 4.927562
+
+Global Epoch 3
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 28.02
+Epoch 3, acc: 28.020000, loss: 3.966518
+
+Global Epoch 4
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 39.800000000000004
+Epoch 4, acc: 39.800000, loss: 3.117184
+
+Global Epoch 5
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 46.37
+Epoch 5, acc: 46.370000, loss: 2.465101
+
+Global Epoch 6
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 50.74999999999999
+Epoch 6, acc: 50.750000, loss: 1.974510
+
+Global Epoch 7
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 53.82
+Epoch 7, acc: 53.820000, loss: 1.657094
+
+Global Epoch 8
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 56.8
+Epoch 8, acc: 56.800000, loss: 1.454438
+
+Global Epoch 9
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 58.330000000000005
+Epoch 9, acc: 58.330000, loss: 1.320683
+
+Global Epoch 10
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 59.31999999999999
+Epoch 10, acc: 59.320000, loss: 1.243314
+
+Global Epoch 11
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 59.9
+Epoch 11, acc: 59.900000, loss: 1.190091
+
+Global Epoch 12
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 60.58
+Epoch 12, acc: 60.580000, loss: 1.157462
+
+Global Epoch 13
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 61.38
+Epoch 13, acc: 61.380000, loss: 1.125206
+
+Global Epoch 14
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 62.129999999999995
+Epoch 14, acc: 62.130000, loss: 1.094691
+
+Global Epoch 15
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 62.72
+Epoch 15, acc: 62.720000, loss: 1.074436
+
+Global Epoch 16
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 63.42
+Epoch 16, acc: 63.420000, loss: 1.054287
+
+Global Epoch 17
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 64.22
+Epoch 17, acc: 64.220000, loss: 1.033217
+
+Global Epoch 18
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 64.86
+Epoch 18, acc: 64.860000, loss: 1.015843
+
+Global Epoch 19
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 65.32
+Epoch 19, acc: 65.320000, loss: 0.998991
+
+
+Process finished with exit code 0

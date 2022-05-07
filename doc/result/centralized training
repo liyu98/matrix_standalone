@@ -1,0 +1,150 @@
+/Users/jacky/opt/anaconda3/envs/learn/bin/python /Users/jacky/Documents/iit/CS584/homework/project1/main.py
+Files already downloaded and verified
+begin global model training 
+
+
+1 节点 1 K
+
+
+Global Epoch 0
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 0.13999999999999999
+Epoch 0, acc: 0.140000, loss: 9.019233
+
+Global Epoch 1
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 0.27999999999999997
+Epoch 1, acc: 0.280000, loss: 7.860937
+
+Global Epoch 2
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 0.49
+Epoch 2, acc: 0.490000, loss: 7.028633
+
+Global Epoch 3
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 1.2
+Epoch 3, acc: 1.200000, loss: 6.383927
+
+Global Epoch 4
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 2.23
+Epoch 4, acc: 2.230000, loss: 5.866239
+
+Global Epoch 5
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 4.5600000000000005
+Epoch 5, acc: 4.560000, loss: 5.445751
+
+Global Epoch 6
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 8.35
+Epoch 6, acc: 8.350000, loss: 5.043958
+
+Global Epoch 7
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 14.330000000000002
+Epoch 7, acc: 14.330000, loss: 4.656721
+
+Global Epoch 8
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 22.42
+Epoch 8, acc: 22.420000, loss: 4.259869
+
+Global Epoch 9
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 31.47
+Epoch 9, acc: 31.470000, loss: 3.858892
+
+Global Epoch 10
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 41.760000000000005
+Epoch 10, acc: 41.760000, loss: 3.459392
+
+Global Epoch 11
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 49.57
+Epoch 11, acc: 49.570000, loss: 3.077812
+
+Global Epoch 12
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 55.84
+Epoch 12, acc: 55.840000, loss: 2.712965
+
+Global Epoch 13
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 60.39
+Epoch 13, acc: 60.390000, loss: 2.394304
+
+Global Epoch 14
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 63.53
+Epoch 14, acc: 63.530000, loss: 2.099478
+
+Global Epoch 15
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 65.91
+Epoch 15, acc: 65.910000, loss: 1.842624
+
+Global Epoch 16
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 68.02
+Epoch 16, acc: 68.020000, loss: 1.625131
+
+Global Epoch 17
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 69.74000000000001
+Epoch 17, acc: 69.740000, loss: 1.444850
+
+Global Epoch 18
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 71.16
+Epoch 18, acc: 71.160000, loss: 1.292109
+
+Global Epoch 19
+Epoch 0 done.
+Epoch 1 done.
+Epoch 2 done.
+server acc 72.28
+Epoch 19, acc: 72.280000, loss: 1.169403
+
+
+进程已结束,退出代码0

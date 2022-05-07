@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
 
+
 # Take a look at some samples from the dataset: each class shows some
 def showPic(X_train, y_train):
     classes = ['plane', 'car', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck']
@@ -19,6 +20,7 @@ def showPic(X_train, y_train):
             if i == 0:
                 plt.title(cls)
     plt.show()
+
 
 if __name__ == '__main__':
     (x_train, y_train), (x_test, y_test) = tf.keras.datasets.cifar10.load_data()

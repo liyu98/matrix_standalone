@@ -1,3 +1,6 @@
+# Client（联邦学习客户端）
+# Receive commands and global models from the server, and use local data to train local models.
+
 import models, torch, copy
 
 

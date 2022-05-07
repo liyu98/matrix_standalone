@@ -1,5 +1,5 @@
-# 联邦学习
-#
+# 联邦学习模拟运行集成
+# Federated learning simulation ensemble run
 
 import json
 import torch, random
@@ -18,7 +18,7 @@ import time
 # 4. The server aggregates the difference between each client to update the model,
 # and then evaluates the current model performance
 # If the performance is not up to standard, repeat the process of 2, otherwise end.
-# print(__name__)
+
 if __name__ == '__main__':
 
     # load configuration file
