@@ -1,5 +1,5 @@
 #### Matrix Standalone (Federated Learning Project)
-A simple version of the horizontal federated learning project to achieve image classification learning. This project is simulated locally, and does not involve network communication details and failure processing. It only involves model aggregation functions, which can quickly verify the relevant algorithms and capabilities of federated learning.
+The simple version of the horizontal federated learning project to achieve image classification learning. This project is simulated locally, and does not involve network communication details and failure processing. It only involves model aggregation functions, which can quickly verify the relevant algorithms and capabilities of federated learning.
 
 ### Operating Manual
 
@@ -23,7 +23,7 @@ Receive commands and global models from the server, and use local data to train 
 
 ##### Functional screenshot
 
-<img src="./doc/image/20220508-022016.jpg" width="930">
+<img src="./doc/image/20220508-022016.jpg" width="400">
 
 ##### Results screenshot
 
@@ -51,12 +51,12 @@ python3 fl_integration.py
 
 ##### 功能展示
 
-<img src="./doc/image/20220508-022016.jpg" width="930">
+<img src="./doc/image/20220508-022016.jpg" width="400">
 
 ##### 结果展示
 
-<img src="./doc/image/acc.jpg" width="930">
+<img src="./doc/image/acc.jpg" width="500">
 
-<img src="./doc/image/loss.jpg" width="930">
+<img src="./doc/image/loss.jpg" width="500">
 
 _参考资料：联邦学习实战_
